@@ -1,5 +1,5 @@
 {
-    "name": "optimus/heimdal",
+    "name": "zmaren/heimdal",
     "autoload": {
         "psr-4": {
             "Optimus\\Heimdal\\": "src/"
